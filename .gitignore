@@ -1,0 +1,23 @@
+# Build files :
+*.o
+*.d
+
+
+# Old work in progress files :
+tp*
+
+
+# Files that Valisp created from .val files :
+\#*\#
+
+
+# Identifier files :
+*.Identifier
+
+
+# .val files, used to test Valisp and do work in progress exercices :
+*.val
+
+
+# Files used to update the Valisp pre-made components :
+maj-tests.sh
