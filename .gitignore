@@ -19,5 +19,5 @@ tp*
 *.val
 
 
-# Files used to update the Valisp pre-made components :
+# Files used to update Valisp pre-made components :
 maj-tests.sh
